@@ -14,6 +14,20 @@ fun main() {
 
   var numero3: Double = 10.540;
 
+  /* b -> Crie uma variável para armazenar um texto e outra para armazenar um número inteiro.
+Qual tipo de dado você deve utilizar para cada uma? */
+  
+  var texto: String = "Olá Mundo!";
+  var intNum: Int = 2013;
+  
+  //Texto se utiliza STRING e números inteiros INT
+
+  /* c -> Crie uma variável para armazenar um número inteiro e outra para armazenar um número
+decimal. Qual tipo de dado você deve utilizar para cada uma? */
+  
+  var numDecimal: Double = 0.0;
+  var numInteiro: Int = 0;
+
   
 
 
