@@ -28,7 +28,26 @@ decimal. Qual tipo de dado você deve utilizar para cada uma? */
   var numDecimal: Double = 0.0;
   var numInteiro: Int = 0;
 
-  
+  /* a -> Crie duas variáveis inteiras e faça a soma utilizando o operador +. */
 
+  var numInteiro1: Int = 13;
+  var numInteiro2: Int = 123;
+
+  var soma: Int = numInteiro1 + numInteiro2;
+
+  console.log(soma);
+
+  /* b -> Crie uma variável do tipo Boolean e atribua o resultado da expressão 5 > 3 && 2 < 4. O
+que será exibido ao imprimir o valor dessa variável? */
+
+ var boolResult: Boolean =  (5 > 3 && 2 < 4); // Sera exibido false.
+
+ console.log(boolResult);
+
+ /* c -> Crie uma variável do tipo Boolean e atribua o resultado da expressão !(10 > 5 || 3 < 1). O
+que será exibido ao imprimir o valor dessa variável? */
+
+var boolResult2: Boolean = !(10 > 5 || 3 < 1); // Sera exibido true.
+ 
 
 }
